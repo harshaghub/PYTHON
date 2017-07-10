@@ -1,4 +1,4 @@
-animals = ['man','cat','pig','bear']
+animals = ['man','cat','pig','bear','GOPI']
 try:
     ani_index = animals.index('LION','cat')
 except:
