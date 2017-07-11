@@ -1,6 +1,6 @@
 distance=input('how far would you like to travel in miles?:')
 distance=float(distance)
-if distance<3:
+if distance<4:
     mode_of_transport='walking'
 elif distance<300:
     mode_of_transport='driving'
